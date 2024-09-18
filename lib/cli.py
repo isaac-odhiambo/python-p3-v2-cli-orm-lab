@@ -1,4 +1,3 @@
-
 from helpers import (
     exit_program,
     list_departments,
@@ -59,16 +58,16 @@ def menu():
     print("1. List all departments")
     print("2. Find department by name")
     print("3. Find department by id")
-    print("4: Create department")
-    print("5: Update department")
-    print("6: Delete department")
+    print("4. Create department")
+    print("5. Update department")
+    print("6. Delete department")
     print("7. List all employees")
     print("8. Find employee by name")
     print("9. Find employee by id")
-    print("10: Create employee")
-    print("11: Update employee")
-    print("12: Delete employee")
-    print("13: List all employees in a department")
+    print("10. Create employee")
+    print("11. Update employee")
+    print("12. Delete employee")
+    print("13. List all employees in a department")
 
 
 if __name__ == "__main__":
